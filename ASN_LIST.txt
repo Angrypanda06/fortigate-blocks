@@ -1,0 +1,415 @@
+#really good list here: https://github.com/brianhama/bad-asn-list/blob/master/bad-asn-list.csv#L353
+https://asn.ipinfo.app/api/text/list/AS44477 #THE-HOSTING - PQ HOSTING PLUS S.R.L.
+https://asn.ipinfo.app/api/text/list/AS22612 #NAMECHEAP-NET
+https://asn.ipinfo.app/api/text/list/AS12312 #ECOTEL - ecotel communication ag
+https://asn.ipinfo.app/api/text/list/AS64419 #ECOTEL-AS - Ecotel, Ltd.
+https://asn.ipinfo.app/api/text/list/AS204957 #GREENFLOID-AS - GREEN FLOID LLC
+https://asn.ipinfo.app/api/text/list/AS61112 #AKILECLOUD - AKILE LTD
+https://asn.ipinfo.app/api/text/list/AS8100 # ASN-QUADRANET-GLOBAL
+https://asn.ipinfo.app/api/text/list/AS16276 #OVH - OVH SAS
+https://asn.ipinfo.app/api/text/list/AS35540 #OVH-TELECOM - OVH SAS
+https://asn.ipinfo.app/api/text/list/AS394814 #ISP4Life
+https://asn.ipinfo.app/api/text/list/AS35478 #DATACENTER - Bunea TELECOM SRL
+https://asn.ipinfo.app/api/text/list/AS22384 #PERFORMIVE-VNI
+https://asn.ipinfo.app/api/text/list/AS46562 #Performive LLC
+https://asn.ipinfo.app/api/text/list/AS39486 #HOSTROYALE - HostRoyale Technologies Pvt Ltd
+https://asn.ipinfo.app/api/text/list/AS44144 #OMEGASOFT - HostRoyale Technologies Pvt Ltd
+https://asn.ipinfo.app/api/text/list/AS133499 #HOSTROYALETECHNOLOGIES-AS-AP HostRoyale Technologies Pvt Ltd
+https://asn.ipinfo.app/api/text/list/AS134450 #HOSTROYALETECHNOLOGIES-AS-AP HostRoyale Technologies Pvt Ltd
+https://asn.ipinfo.app/api/text/list/AS203020 #HOSTROYALE - HostRoyale Technologies Pvt Ltd
+https://asn.ipinfo.app/api/text/list/AS204287 #HOSTROYALE_TECHNOLOGIES - HostRoyale Technologies Pvt Ltd
+https://asn.ipinfo.app/api/text/list/AS207990 #HR-CUSTOMER - HostRoyale Technologies Pvt Ltd
+https://asn.ipinfo.app/api/text/list/AS11878 #tzulo, inc.
+https://asn.ipinfo.app/api/text/list/AS6939 #Hurricane Electric LLC (HURC)
+https://asn.ipinfo.app/api/text/list/AS60068 #CDN77 - Datacamp Limited
+https://asn.ipinfo.app/api/text/list/AS212238 #CDNEXT - Datacamp Limited
+https://asn.ipinfo.app/api/text/list/AS211612 #CACHE77 - Datacamp Limited
+https://asn.ipinfo.app/api/text/list/AS50446 #DATACAMPUS - Datacampus SAS
+https://asn.ipinfo.app/api/text/list/AS9009 #M247 - M247 Europe SRL
+https://asn.ipinfo.app/api/text/list/AS16247 #M247-UK - M247 Ltd
+https://asn.ipinfo.app/api/text/list/AS42973 #METRONETUK_M24SEVEN - M247 UK Ltd
+https://asn.ipinfo.app/api/text/list/AS35536 #XTOM-35536 - xTom GmbH
+https://asn.ipinfo.app/api/text/list/AS9312 #XTOM xTom
+https://asn.ipinfo.app/api/text/list/AS8888 #XTOM - xTom Pty Ltd
+https://asn.ipinfo.app/api/text/list/AS6233 #XTOM
+https://asn.ipinfo.app/api/text/list/AS4785 #XTOM-AS-JP xTom
+https://asn.ipinfo.app/api/text/list/AS3258 #XTOM-JAPAN - xTom Japan Co., Ltd.
+https://asn.ipinfo.app/api/text/list/AS3214 #XTOM - xTom GmbH
+https://asn.ipinfo.app/api/text/list/AS949 #XTOM
+https://asn.ipinfo.app/api/text/list/AS14315 #1GSERVERS, LLC
+https://asn.ipinfo.app/api/text/list/AS18779 #EGIHosting
+https://asn.ipinfo.app/api/text/list/AS7005 #InterServer SA
+https://asn.ipinfo.app/api/text/list/AS26666 #INTERSERVER-LAX
+https://asn.ipinfo.app/api/text/list/AS13335 #CLOUDFLARENET
+https://asn.ipinfo.app/api/text/list/AS202623 #CLOUDFLARENET-CORE - Cloudflare Inc
+https://asn.ipinfo.app/api/text/list/AS395747 #CLOUDFLARENET-SFO05
+https://asn.ipinfo.app/api/text/list/AS62651 #NETPROTECT-62651
+https://asn.ipinfo.app/api/text/list/AS54203 #NETPROTECT-SP
+https://asn.ipinfo.app/api/text/list/AS54138 #NETPROTECT-OVP
+https://asn.ipinfo.app/api/text/list/AS50667 #MSP-ROMANIA-AS - NETPROTECT SRL
+https://asn.ipinfo.app/api/text/list/AS31362 #PROTECTNET - NETPROTECT SRL
+https://asn.ipinfo.app/api/text/list/AS13926 #NETPROTECT-PHX
+https://asn.ipinfo.app/api/text/list/AS24940 #HETZNER-AS - Hetzner Online GmbH 
+https://asn.ipinfo.app/api/text/list/AS212317 #HETZNER-CLOUD3-AS - Hetzner Online GmbH 
+https://asn.ipinfo.app/api/text/list/AS213230 #HETZNER-CLOUD2-AS - Hetzner Online GmbH 
+https://asn.ipinfo.app/api/text/list/AS213006 #NSFTELECOM - Invermae Solutions SL
+https://asn.ipinfo.app/api/text/list/AS213005 #Invermae Solutions SL
+https://asn.ipinfo.app/api/text/list/AS212862 #PROXYSEO - Invermae Solutions SL
+https://asn.ipinfo.app/api/text/list/AS212861 #INTERCOLO - Invermae Solutions SLL
+https://asn.ipinfo.app/api/text/list/AS204286 #CDN4YOU - Invermae Solutions SL
+https://asn.ipinfo.app/api/text/list/AS202636 #ECHELON - Invermae Solutions SL
+https://asn.ipinfo.app/api/text/list/AS200908 #INTERMANAGED - Invermae Solutions SL
+
+#####
+
+https://asn.ipinfo.app/api/text/list/AS17470 #HUTCHISON-LK
+https://asn.ipinfo.app/api/text/list/AS209372 #SIA "Singularity Telecom"
+https://asn.ipinfo.app/api/text/list/AS45887 #GPLHOST
+https://asn.ipinfo.app/api/text/list/AS48337 #LINODE
+https://asn.ipinfo.app/api/text/list/AS63949 #LINODE
+https://asn.ipinfo.app/api/text/list/AS61317 #Hivelocity Inc
+https://asn.ipinfo.app/api/text/list/AS263735 #Buena Hosting
+https://asn.ipinfo.app/api/text/list/AS263740 #Corporacion Laceibanetsociety
+https://asn.ipinfo.app/api/text/list/AS14061 #DigitalOcean
+https://asn.ipinfo.app/api/text/list/ #HostingSolution LTD
+https://asn.ipinfo.app/api/text/list/AS8075 #Microsoft
+https://asn.ipinfo.app/api/text/list/AS62240 #Clouvider
+https://asn.ipinfo.app/api/text/list/AS36352 #ColoCrossing
+https://asn.ipinfo.app/api/text/list/AS12876 #ScaleWay / ONLINE SAS / PONEYTELECOM
+https://asn.ipinfo.app/api/text/list/AS37518 #Fiber Grid INC
+https://asn.ipinfo.app/api/text/list/AS132203 #Shenzhen Tencent
+https://asn.ipinfo.app/api/text/list/AS45090 #Shenzhen Tencent
+https://asn.ipinfo.app/api/text/list/AS55286 #ServerMania / B2 Net Solutions Inc./ Blazing SEO
+https://asn.ipinfo.app/api/text/list/AS210558 #1337 Services GmbH (as210558.net)
+https://asn.ipinfo.app/api/text/list/AS206092 #SECFIREWALLAS - Internet Utilities Europe and Asia Limited.
+https://asn.ipinfo.app/api/text/list/AS26548 #PureVoltage Hosting Inc.
+https://asn.ipinfo.app/api/text/list/AS137409 #GSL Networks Pty LTD / M Nets SAL
+https://asn.ipinfo.app/api/text/list/AS14576 #Hosting Solution Ltd / TrafficTransitSolution LLC / king-servers.com
+https://asn.ipinfo.app/api/text/list/AS40861 #Paradise Networks LLC / Powehouse Management VPNs
+https://asn.ipinfo.app/api/text/list/AS36007 #Kamatera, Inc. / Cloud Web Manage
+https://asn.ipinfo.app/api/text/list/AS24961 #myLoc managed IT AG / webtropia
+https://asn.ipinfo.app/api/text/list/AS39572 #ADVANCEDHOSTERS-AS
+https://asn.ipinfo.app/api/text/list/AS932 #XNNET
+https://asn.ipinfo.app/api/text/list/AS6134 #XNNET
+https://asn.ipinfo.app/api/text/list/AS27524 #XEEX-COMMUNICATIONS
+https://asn.ipinfo.app/api/text/list/AS33333 #OBJX
+https://asn.ipinfo.app/api/text/list/AS35624 #SILVERSTAR-AS - Silverstar Invest Limited
+https://asn.ipinfo.app/api/text/list/AS3223 #VOXILITY - Voxility LLP
+https://asn.ipinfo.app/api/text/list/AS3842 #RAMNODE
+https://asn.ipinfo.app/api/text/list/AS4694 #IDCF IDC Frontier Inc.
+https://asn.ipinfo.app/api/text/list/AS5577 #ROOT - root SA
+https://asn.ipinfo.app/api/text/list/AS6724 #STRATO - Strato AG
+https://asn.ipinfo.app/api/text/list/AS7203 #LEASEWEB-USA-SFO
+https://asn.ipinfo.app/api/text/list/AS7489 #HOSTUS-GLOBAL-AS HostUS
+https://asn.ipinfo.app/api/text/list/AS7506 #INTERQ GMO Internet
+https://asn.ipinfo.app/api/text/list/AS7850 #TN-ASN-CL
+https://asn.ipinfo.app/api/text/list/AS7979 #SERVERS-COM
+https://asn.ipinfo.app/api/text/list/AS8455 #ATOM86-AS - Schuberg Philis B.V.
+https://asn.ipinfo.app/api/text/list/AS8560 #IONOS-AS - IONOS SE
+https://asn.ipinfo.app/api/text/list/AS9370 #SAKURA-B SAKURA Internet Inc.
+https://asn.ipinfo.app/api/text/list/AS10297 #ENET-2
+https://asn.ipinfo.app/api/text/list/AS10439 #CARINET
+https://asn.ipinfo.app/api/text/list/AS11831 #ESECUREDATA
+https://asn.ipinfo.app/api/text/list/AS12586 #ASGHOSTNET - GHOSTnet GmbH
+https://asn.ipinfo.app/api/text/list/AS13213 #UK2NET-AS - UK-2 Limited
+https://asn.ipinfo.app/api/text/list/AS13739 #DATACENTER-IP
+https://asn.ipinfo.app/api/text/list/AS14127 #ILAND
+https://asn.ipinfo.app/api/text/list/AS14618 #AMAZON-AES
+https://asn.ipinfo.app/api/text/list/AS16509 #AMAZON-02
+https://asn.ipinfo.app/api/text/list/AS15083 #INFOLINK-MIA-
+https://asn.ipinfo.app/api/text/list/AS15169 #GOOGLE
+https://asn.ipinfo.app/api/text/list/AS15395 #RACKSPACE-LON - Rackspace Ltd.
+https://asn.ipinfo.app/api/text/list/AS15497 #COLOCALL - 1 Cloud Lab s.r.o.
+https://asn.ipinfo.app/api/text/list/AS15510 #CWCS-PS - Compuweb Communications Services Limited
+https://asn.ipinfo.app/api/text/list/AS15626 #GF-UA - GREEN FLOID LLC
+https://asn.ipinfo.app/api/text/list/AS16125 #CHERRYSERVERS1-AS - UAB Cherry Servers
+https://asn.ipinfo.app/api/text/list/AS16262 #DATACHEAP-LLC-AS - Datacheap LLC
+https://asn.ipinfo.app/api/text/list/AS16628 #DEDICATED-FIBER-COMMUNICATIONS
+https://asn.ipinfo.app/api/text/list/AS17216 #DC74-AS
+https://asn.ipinfo.app/api/text/list/AS18450 #WEBNX
+https://asn.ipinfo.app/api/text/list/AS18978 #ENZUINC-
+https://asn.ipinfo.app/api/text/list/AS19084 #COLOUP
+https://asn.ipinfo.app/api/text/list/AS19318 #NJIIX-AS-1 - NEW JERSEY INTERNATIONAL INTERNET EXCHANGE LLC,
+https://asn.ipinfo.app/api/text/list/AS19437 #SS-ASH
+https://asn.ipinfo.app/api/text/list/AS19531 #NODESDIRECT
+https://asn.ipinfo.app/api/text/list/AS19624 #SERVERROOM
+https://asn.ipinfo.app/api/text/list/AS19871 #NETWORK-SOLUTIONS-HOSTING
+https://asn.ipinfo.app/api/text/list/AS19969 #JOESDATACENTER
+https://asn.ipinfo.app/api/text/list/AS20021 #LNH-INC
+https://asn.ipinfo.app/api/text/list/AS20264 #WEBAIR-INTERNET-2
+https://asn.ipinfo.app/api/text/list/AS20454 #SSASN2 - SECURED SERVERS LLC, US
+https://asn.ipinfo.app/api/text/list/AS20473 #AS-VULTR
+https://asn.ipinfo.app/api/text/list/AS20598 #CYBERSPACE-AS Autonomous System number for Cyber Space, IL
+https://asn.ipinfo.app/api/text/list/AS21859 #ZNET - Zenlayer Inc, US
+https://asn.ipinfo.app/api/text/list/AS22363 #PHMGMT-AS1 - Powerhouse Management, Inc., US
+https://asn.ipinfo.app/api/text/list/AS22552 #ESITED - eSited Solutions, US
+https://asn.ipinfo.app/api/text/list/AS22781 #RBLHST - Strong Technology, LLC., US
+https://asn.ipinfo.app/api/text/list/AS23033 #WOW - Wowrack.com, US
+https://asn.ipinfo.app/api/text/list/AS23342 #UNITEDLAYER - Unitedlayer, Inc., US
+https://asn.ipinfo.app/api/text/list/AS23352 #SERVERCENTRAL
+https://asn.ipinfo.app/api/text/list/AS25780 #HUGESERVER-NETWORKS - HugeServer Networks, LLC, US
+https://asn.ipinfo.app/api/text/list/AS29838 #AMC - Atlantic Metro Communications, US
+https://asn.ipinfo.app/api/text/list/AS29854 #WESTHOST - WestHost, Inc., US
+https://asn.ipinfo.app/api/text/list/AS30083 #AS-30083-US-VELIA-NET
+https://asn.ipinfo.app/api/text/list/AS30475 #WEHOSTWEBSITES-COM - Handy Networks, LLC, US
+https://asn.ipinfo.app/api/text/list/AS30633 #LEASEWEB-USA-WDC
+https://asn.ipinfo.app/api/text/list/AS32097 #WII-KC - WholeSale Internet, Inc., US
+https://asn.ipinfo.app/api/text/list/AS32181 #ASN-GIGENET - GigeNET, US
+https://asn.ipinfo.app/api/text/list/AS32244 #LIQUID-WEB-INC - Liquid Web, L.L.C, US
+https://asn.ipinfo.app/api/text/list/AS32475 #SINGLEHOP-LLC - SingleHop, Inc., US
+https://asn.ipinfo.app/api/text/list/AS32780 #HOSTINGSERVICES-INC - Hosting Services, Inc., US
+https://asn.ipinfo.app/api/text/list/AS33083 #AXCELX-NET - AxcelX Technologies LLC, US
+https://asn.ipinfo.app/api/text/list/AS33182 #DIMENOC - HostDime.com, Inc., US
+https://asn.ipinfo.app/api/text/list/AS33302 #ONS-COS - Data 102, LLC, US
+https://asn.ipinfo.app/api/text/list/AS33480 #WEBWERKSAS1 - Web Werks, US
+https://asn.ipinfo.app/api/text/list/AS33724 #BIZNESSHOSTING - VOLICO, US
+https://asn.ipinfo.app/api/text/list/AS35908 #VPLSNET - Krypt Technologies, US
+https://asn.ipinfo.app/api/text/list/AS35916 #MULTA-ASN1 - MULTACOM CORPORATION, US
+https://asn.ipinfo.app/api/text/list/AS36114 #VERSAWEB-ASN
+https://asn.ipinfo.app/api/text/list/AS36351 #SOFTLAYER - SoftLayer Technologies Inc., US
+https://asn.ipinfo.app/api/text/list/AS36666 #GTCOMM - GloboTech Communications, CA
+https://asn.ipinfo.app/api/text/list/AS40156 #THEOPT-HOU - The Optimal Link Corporation, US
+https://asn.ipinfo.app/api/text/list/AS40244 #TURNKEY-INTERNET - Turnkey Internet Inc., US
+https://asn.ipinfo.app/api/text/list/AS40676 #AS40676 - Psychz Networks, US
+https://asn.ipinfo.app/api/text/list/AS40824 #WZCOM-US - WZ Communications Inc., US
+https://asn.ipinfo.app/api/text/list/AS46261 #QUICKPACKET - QuickPacket, LLC, US
+https://asn.ipinfo.app/api/text/list/AS46475 #LIMESTONENETWORKS - Limestone Networks, Inc., US
+https://asn.ipinfo.app/api/text/list/AS46664 #VOLUMEDRIVE - VolumeDrive, US
+https://asn.ipinfo.app/api/text/list/AS46844 #ST-BGP - Sharktech, US
+https://asn.ipinfo.app/api/text/list/AS53340 #FIBERHUB - VegasNAP, LLC, US
+https://asn.ipinfo.app/api/text/list/AS53559 #ANONYMIZER - Anonymizer Inc., US
+https://asn.ipinfo.app/api/text/list/AS53597 #HOYOS-CONSULTING-LLC - Hoyos Consulting LLC, US
+https://asn.ipinfo.app/api/text/list/AS53667 #PONYNET - FranTech Solutions, US
+https://asn.ipinfo.app/api/text/list/AS53755 #IOFLOOD - Input Output Flood LLC, US
+https://asn.ipinfo.app/api/text/list/AS53850 #GORILLASERVERS - GorillaServers, Inc., US
+https://asn.ipinfo.app/api/text/list/AS54455 #MADEIT - MadeIT inc., US
+https://asn.ipinfo.app/api/text/list/AS54489 #CORESPACE-DAL - CoreSpace, Inc., US
+https://asn.ipinfo.app/api/text/list/AS63018 #USDEDICATED - US Dedicated, US
+https://asn.ipinfo.app/api/text/list/AS63199 #CDSC-AS1 - Capitalonline Data Service Co.,LTD, US
+https://asn.ipinfo.app/api/text/list/AS63473 #HOSTHATCH-ASN - HostHatch, Inc, US
+https://asn.ipinfo.app/api/text/list/AS64245 #AS-DIGITALFYRE - DigitalFyre Internet Solutions, LLC., US
+https://asn.ipinfo.app/api/text/list/AS394380 #LEASEWEB-USA-DAL-10 - Leaseweb USA, Inc., US
+https://asn.ipinfo.app/api/text/list/AS395111 #KVCNET-2009 - KVCHOSTING.COM LLC, US
+https://asn.ipinfo.app/api/text/list/AS35830 #BTTGROUP-AS - BTT Group Finance Ltd
+
+#added 09/18/2024
+https://asn.ipinfo.app/api/text/list/AS45102 #ALIBABA-CN-NET Alibaba US Technology Co.
+https://asn.ipinfo.app/api/text/list/AS206728 #MEDIALAND-AS - Media Land LLC
+https://asn.ipinfo.app/api/text/list/AS398722 #CENSYS-ARIN-03
+https://asn.ipinfo.app/api/text/list/AS212027 #PEBBLEHOST - Daniel Jackson
+https://asn.ipinfo.app/api/text/list/AS142002 #SCLOUDPTELTD-AS Scloud Pte Ltd
+https://asn.ipinfo.app/api/text/list/AS398324 #CENSYS-ARIN-01
+https://asn.ipinfo.app/api/text/list/AS51167 #CONTABO - Contabo GmbH
+
+#added 12/09/2024
+https://asn.ipinfo.app/api/text/list/AS396356 #Latitude Hosting
+
+#added 12/26/2024
+https://asn.ipinfo.app/api/text/list/AS62744 #Quintex Alliance Consulting
+https://asn.ipinfo.app/api/text/list/AS56971 #CGI Global Limited
+https://asn.ipinfo.app/api/text/list/AS210644 #Aeza International Ltd
+
+#added 1/15/2025
+https://asn.ipinfo.app/api/text/list/AS47890 #UNMANAGED-DEDICATED-SERVERS - UNMANAGED LTD
+
+#added 2/4/2025
+https://asn.ipinfo.app/api/text/list/AS29802 #Hivelocity
+https://asn.ipinfo.app/api/text/list/AS14956 #Router Hosting 
+https://asn.ipinfo.app/api/text/list/AS62904 #Eonix
+
+#added 2/6/2025
+https://asn.ipinfo.app/api/text/list/AS200373 #DREI-K-TECH-GMBH - 3xK Tech GmbH
+https://asn.ipinfo.app/api/text/list/AS984 #OCTOPUS WEB SOLUTION INC
+https://asn.ipinfo.app/api/text/list/AS24669 #Clouvider Limited
+
+#added 4/2/2025
+https://asn.ipinfo.app/api/text/list/AS214943 #RAILNET - Railnet LLC
+https://asn.ipinfo.app/api/text/list/AS51765 #CREANOVA-AS - Oy Crea Nova Hosting Solution Ltd
+https://asn.ipinfo.app/api/text/list/AS211298 #DRIFTNET - Driftnet Ltd
+https://asn.ipinfo.app/api/text/list/AS396982 #GOOGLE-CLOUD-PLATFORM
+https://asn.ipinfo.app/api/text/list/AS37963 #ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.
+https://asn.ipinfo.app/api/text/list/AS135377 #UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED
+
+#added 4/10/2025
+https://asn.ipinfo.app/api/text/list/AS395092 #SHOCK Hosting
+https://asn.ipinfo.app/api/text/list/AS965 #WEBHOSTINGHOLDINGS
+https://asn.ipinfo.app/api/text/list/AS1824 #HOSTING
+https://asn.ipinfo.app/api/text/list/AS9290 #GOHOSTING-AS-AP GoHosting
+https://asn.ipinfo.app/api/text/list/AS9678 #HOSTINGINSIDE HostingInside LTD.
+https://asn.ipinfo.app/api/text/list/AS10747 #EPIC-HOSTING
+https://asn.ipinfo.app/api/text/list/AS10991 #CAPGE-HOSTING-MRO
+https://asn.ipinfo.app/api/text/list/AS12266 #SRN-HOSTING
+https://asn.ipinfo.app/api/text/list/AS12417 #DHH-AS - Plus Hosting Grupa d.o.o.
+https://asn.ipinfo.app/api/text/list/AS12488 #KRYSTAL - Krystal Hosting Ltd
+https://asn.ipinfo.app/api/text/list/AS14670 #WHG-USE1 - WHG Hosting Services Ltd
+https://asn.ipinfo.app/api/text/list/AS14987 #RETHEMHOSTING
+https://asn.ipinfo.app/api/text/list/AS15919 #INTERHOST - Servicios de Hosting en Internet S.A.
+https://asn.ipinfo.app/api/text/list/AS17881 #INETHOSTING-AS-KR Inet Hosting
+https://asn.ipinfo.app/api/text/list/AS19133 #BIRD-HOSTING
+https://asn.ipinfo.app/api/text/list/AS21581 #M5HOSTING
+https://asn.ipinfo.app/api/text/list/AS22903 #EDGE-HOSTING
+https://asn.ipinfo.app/api/text/list/AS23881 #UDOMAIN-AS-AP UDomain Web Hosting Company Ltd
+https://asn.ipinfo.app/api/text/list/AS29119 #SERVIHOSTING-AS - AIRE NETWORKS DEL MEDITERRANEO SL UNIPERSONAL
+https://asn.ipinfo.app/api/text/list/AS29262 #IDEALHOSTING - Ideal Hosting Teknoloji A.S.
+https://asn.ipinfo.app/api/text/list/AS29452 #SECURA-AS - Secura Hosting Ltd
+https://asn.ipinfo.app/api/text/list/AS30893 #NOACKHOSTING-AS - No ACK Group Holding AB
+https://asn.ipinfo.app/api/text/list/AS31333 #VOLLMAR-AS - Hosting.de GmbH
+https://asn.ipinfo.app/api/text/list/AS31590 #RACKHOSTING-AS - Rackhosting.com ApS
+https://asn.ipinfo.app/api/text/list/AS34420 #NETAFFAIRS-HOSTING-BV - Netaffairs Hosting B.V.
+https://asn.ipinfo.app/api/text/list/AS36231 #TEMPEST-HOSTING
+https://asn.ipinfo.app/api/text/list/AS36791 #PDXHOSTING
+https://asn.ipinfo.app/api/text/list/AS39150 #HOSTING-TELECOM-AS - HOSTING TELECOM LTD
+https://asn.ipinfo.app/api/text/list/AS39647 #REDHOSTING-AS - Enreach Netherlands B.V.
+https://asn.ipinfo.app/api/text/list/AS39704 #CJ2-AS - CJ2 Hosting B.V.
+
+#4/11/2025
+removed the following ASNs due to ASNs now returning zero IP records
+AS54500
+AS27524
+AS17048
+AS15828
+AS48337
+AS214422
+AS208091
+
+#4/11/2025 added addtional ASNs of server rental companies
+AS41111 #AS-GEOHOSTING - FAST GEO HOSTING S.R.L.
+AS41634 #SVEA - Svea Hosting AB
+AS41637 #ROUTING-ANYCAST - Hosting.de GmbH
+AS41665 #HOSTING-AS - Tehnologii Budushego LLC
+AS41828 #TELEMACH-HOSTING - Telemach Slovenija d.o.o.
+AS42442 #ADACOR-AS - Adacor Hosting GmbH
+AS42612 #DINAHOSTING-AS - DinaHosting S.L.
+AS42675 #OBEHOSTING - Obehosting AB
+AS42699 #MANAGEDHOSTING-AS - managedhosting.de GmbH
+AS43541 #VSHOSTING - VSHosting s.r.o.
+AS44051 #FORNEX-AS - Fornex Hosting S.L.
+AS44716 #DHOSTING-NET - D-hosting die Rackspace & Connectivity GmbH
+AS45187 #RACKSPACE-AP Rackspace IT Hosting AS IT Hosting Provider Hong Kong
+AS47583 #AS-HOSTINGER - Hostinger International Limited
+AS48014 #ALBHOST - Albanian Hosting SH.P.K.
+AS49581 #FERDINANDZINK - Ferdinand Zink trading as Tube-Hosting
+AS50415 #AHOSTING - Ahosting a.s.
+AS51050 #H4HOSTING-AS - H4Hosting BV
+AS52000 #MIRHOSTING - MIRhosting B.V.
+AS52465 #WNet Internet y Hosting
+AS54527 #ASTUTEHOSTING
+AS55293 #A2HOSTING
+AS55720 #GIGABIT-MY Gigabit Hosting Sdn Bhd
+AS57286 #ASGIGAS - GIGAS HOSTING S.A.
+AS59711 #HZ-EU-AS - HZ Hosting Ltd
+AS60800 #NHL-AS1 - Netwise Hosting Ltd
+AS63051 #CRITICALHOSTING-USA
+AS64200 #VIVIDHOSTING
+AS136052 #IDNIC-IDCLOUDHOST-AS-ID PT Cloud Hosting Indonesia
+AS136171 #MEDHAHOSTING-AS-AP Medha Hosting
+AS200000 #UKRAINE-AS - Hosting Ukraine LTD
+AS200719 #MISSDOMAIN - Miss Hosting AB
+AS201200 #SUPERHOSTING_AS - SuperHosting.BG Ltd.
+AS201446 #PROFESIONALHOSTING - Soluciones web on line s.l.
+AS201983 #ANSLUTEN-AS - Ansluten Hosting i Sverige AB
+AS202015 #HZ-US-AS - HZ Hosting Ltd
+AS202759 #FAIRYHOSTING - RJ Network OU
+AS205220 #RHC-HOSTING - RH & Co. IT Services Ltd
+AS206331 #EHOSTINGONLINE - E-Hosting Online LLC
+AS207605 #SPD - S.P.D. Hosting LTD
+AS208332 #HOSTING2GO - Hosting 2 GO B.V.
+AS210619 #MTH-NETWORKS - Monkey Tree Hosting Limited
+AS212477 #ROYALE-AS - RoyaleHosting BV
+AS213646 #MONKEY-TREE-HOSTING - Monkey Tree Hosting Limited
+AS216139 #IRONHOST - Iron Hosting Centre LTD
+AS396073 #MAJESTIC-HOSTING-01
+AS215859 #HETZNER-CLOUD4-AS - Hetzner Online GmbH
+AS8987 #Amazon Data Services Ireland Ltd
+
+#8/24/2025
+AS40021
+
+#9/6/2025
+AS31898 #ORACLE-BMC-31898
+AS136907 #HWCLOUDS-AS-AP HUAWEI CLOUDS
+AS132420 #E2E-NETWORKS-IN 282
+AS4837 #CHINA169-BACKBONE CHINA UNICOM China169 Backbone
+AS62068 #SPECTRAIP SpectraIP B.V., NL
+AS202425 #INT-NETWORK - IP Volume inc
+AS136557 #HOST-AS-AP Host Universal Pty Ltd
+AS214238 #IWIHOST - HOST TELECOM LTD
+
+#9/12/2025
+AS198953 #PROTON66 - Proton66 OOO
+AS209605 # HOSTBALTIC - UAB Host Baltic
+AS202306 #H OSTGLOBALPLUS-AS - HOSTGLOBAL.PLUS LTD
+AS141892 #IDNIC-SENGKED-AS-ID CV Andhika Pratama Sanggoro
+AS39724 #OMONIA-RS - Omonia d.o.o.
+AS44306 #OMONIA - OMONIA d.o.o.
+AS18101 #RELIANCE-COMMUNICATIONS-IN Reliance Communications Ltd.DAKC MUMBAI
+AS45899 # VNPT-AS-VN VNPT Corp
+AS23673 #ONLINE-AS Cogetel Online
+AS198571 #PLAINPROXIES - 3xK Tech GmbH
+AS971 #PUREVOLTAGE
+AS13332 #HYPEENT-SJ
+AS7643 #VNPT-AS-VN Vietnam Posts and Telecommunications VNPT
+AS135905 #VNPT-AS-VN VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+AS18403 #FPT-AS-AP FPT Telecom Company
+AS24186 #RAILTEL-AS-IN RailTel Corporation of India Ltd
+AS135761 #ULNPLSUM-AS Userlinks Netcom Pvt. Ltd.
+AS25799 #M247AI-AS-
+AS33970 #	M247 - M247 Ltd
+AS51332 #M247-ENTERPRISE - M247 Europe SRL
+AS274103 #REDES DEL RIO S.A.S.
+AS37371 #HORMUUD
+AS55990 #HWCSNET Huawei Cloud Service data center
+AS63655 #HWDGNET Huawei Technologies Co.
+AS131444 #HIPL-AS-AP Huawei IT Data Center in AP
+AS141180 #HIPL-AS-AP HUAWEI INTERNATIONAL PTE. LTD.
+AS9498 #BBIL-AP BHARTI Airtel Ltd.
+AS24560 #AIRTELBROADBAND-AS-AP Bharti Airtel Ltd
+AS45609 #BHARTI-MOBILITY-AS-AP Bharti Airtel Ltd. AS for GPRS Service
+AS213790 #LIMITEDNETWORK-AS - Limited Network LTD
+AS4818 #DIGIIX-AP DiGi Telecommunications Sdn. Bhd.
+AS10081 #DIGI-MY DiGi Telecommunications Sdn Bhd
+
+#9/18/2025
+AS215929 #DATACAMPUS - Data Campus Limited
+AS207915 #SYMEETRIC - Invermae Solutions SL
+AS8068 #MICROSOFT-CORP-MSN-AS-BLOCK
+AS8069 #MICROSOFT-CORP-MSN-AS-BLOCK
+AS8070 #MICROSOFT-CORP-MSN-AS-BLOCK
+AS19551 #INCAPSULA
+AS38235 #MEKONGNET-ADC-AS-AP ANGKOR DATA COMMUNICATION
+AS137952 #ANGKORENC-AS-AP ANGKOR E & C CAMBODIA Co.
+AS262287 #Latitude.sh LTDA
+AS213412 #ONYPHE - ONYPHE SAS
+
+#9/30/2025
+AS46558	#SUN-DSEO
+AS680	#DFN - Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+AS401696	#COGNETCLOUD
+AS46606	#UNIFIEDLAYER-AS-1
+AS398705	#CENSYS-ARIN-02
+AS51396	#PFCLOUD - Pfcloud UG"
+AS26277	#SERVERPOINT
+AS210630	#INTERNET-SPEECH-AND-PRIVACY - IncogNET LLC
+AS19527	#GOOGLE-2
+AS174 #COGENT-174
+AS59134 #IDNIC-DATACOMM-AS-ID PT. Datacomm Diangraha
+AS398721	#OXIO-ASN-01
+AS212512	#DETAI - Detai Prosperous Technologies Limited
+AS6167	#CELLCO-PART
+AS36223	#SPANISHFORK-COMMUNITY-NETWORK
+AS28753	#LEASEWEB-DE-FRA-10 - Leaseweb Deutschland GmbH
+AS209800
+AS401120
+
+#9/30/2025
+remoevd AS174 #COGENT-174 due to impacts on users
+
+#10/1/2025
+removed AS3209	#VODANET - Vodafone GmbH due to impacts on users
+
+10/2/2025
+Removed AS6167	#CELLCO-PART due to impacts on users
+removed AS680	#DFN - Verein zur Foerderung eines Deutschen Forschungsnetzes e.V. due to impacts on users
+
+11/26/2025
+removed AS398721	#OXIO-ASN-01
