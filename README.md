@@ -1127,11 +1127,6 @@ here we configure the IPv4 address range allowed to be used by the IP sec tunnel
 
 ```
 config firewall address
-	edit "HomeVPN-IPsec_range"
-        set type iprange
-        set start-ip 10.10.30.1
-        set end-ip 10.10.30.255
-    next
     edit "VPN_Block_China"
         set type geography
         set country "CN"
@@ -1932,8 +1927,6 @@ config firewall address
         set type geography
         set country "US"
     next
-    edit "VPN_Block_205.210.31.169"
-        set subnet 205.210.31.169 255.255.255.255
 end
 ```
 
@@ -1942,11 +1935,6 @@ here we configure the IPv6 address range allowed to be used by the IP sec tunnel
 
 ```
 config firewall address6
-	edit "HomeVPN-IPsec_range"
-        set type iprange
-        set start-ip 2002:db7::1
-        set end-ip 2002:db7::20
-    next
     edit "USA"
         set type geography
         set country "US"
